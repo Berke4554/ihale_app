@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1088425970391",
+    "project_id": "ihale-app",
+    "storage_bucket": "ihale-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088425970391:android:c6a01357ba9aee584b7e92",
+        "android_client_info": {
+          "package_name": "com.example.ihale_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvttxFChmk8sHePbmEoRtO-CqkmwOMr8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
